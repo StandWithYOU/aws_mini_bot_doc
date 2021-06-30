@@ -20,7 +20,7 @@ telegram   @aws_mini_bot  使用教程
 
 第三步 ， telegram 搜索  @aws_mini_bot  进入bot
 
-​				<img src="https://ftp.bmp.ovh/imgs/2021/07/b8a9cd5b819dd568.png" style="zoom:33%;" 	/>
+​				<img src="https://ftp.bmp.ovh/imgs/2021/07/b8a9cd5b819dd568.png" style="zoom:20%;" 	/>
 
 
 
@@ -34,19 +34,19 @@ telegram   @aws_mini_bot  使用教程
 
 ​				认真看完  用前须知
 
-​				<img src="https://ftp.bmp.ovh/imgs/2021/07/a74e3f515a66b010.png" style="zoom:33%;" />
+​				<img src="https://ftp.bmp.ovh/imgs/2021/07/a74e3f515a66b010.png" style="zoom:20%;" />
 
 
 
 第六步， 点击已读，会进入bot授权概况界面，显示你的授权还有多少天到期
 
-​				<img src="https://ftp.bmp.ovh/imgs/2021/07/d229c5bb2f0eb27f.png" style="zoom:33%;" />
+​				<img src="https://ftp.bmp.ovh/imgs/2021/07/d229c5bb2f0eb27f.png" style="zoom:20%;" />
 
 
 
 第七步，点击开始使用 （如果是新用户，进群白嫖一个试用7天授权）
 
-​			<img src="https://ftp.bmp.ovh/imgs/2021/07/b42963a437ea6458.png" style="zoom:33%;" />
+​			<img src="https://ftp.bmp.ovh/imgs/2021/07/b42963a437ea6458.png" style="zoom:20%;" />
 
 
 
@@ -56,7 +56,7 @@ telegram   @aws_mini_bot  使用教程
 
 ​				分别输入access_key_id  和secret_access_key
 
-​				<img src="https://ftp.bmp.ovh/imgs/2021/07/cfbfd40b45cbc3bd.png" style="zoom:33%;" />
+​				<img src="https://ftp.bmp.ovh/imgs/2021/07/cfbfd40b45cbc3bd.png" style="zoom:20%;" />
 
 
 
@@ -68,7 +68,7 @@ telegram   @aws_mini_bot  使用教程
 
 ​				然后点击 5.开机 进行开机
 
-​				<img src="https://ftp.bmp.ovh/imgs/2021/07/766a2e36ed849e25.png" style="zoom:33%;" />
+​				<img src="https://ftp.bmp.ovh/imgs/2021/07/766a2e36ed849e25.png" style="zoom:20%;" />
 
 
 
@@ -82,11 +82,11 @@ telegram   @aws_mini_bot  使用教程
 
 点击管理EC2
 
-<img src="https://ftp.bmp.ovh/imgs/2021/07/9ff546189594b5ab.png" style="zoom:33%;" />
+<img src="https://ftp.bmp.ovh/imgs/2021/07/9ff546189594b5ab.png" style="zoom:20%;" />
 
 选择你要管理的区域
 
-<img src="https://ftp.bmp.ovh/imgs/2021/07/06ec7e07806a1d6a.png" style="zoom:33%;" />
+<img src="https://ftp.bmp.ovh/imgs/2021/07/06ec7e07806a1d6a.png" style="zoom:20%;" />
 
 然后会有ec2的列表，每一行代表一个ec2，点击可以查看详情，可以进行删除操作
 
