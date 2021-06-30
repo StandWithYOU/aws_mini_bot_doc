@@ -40,7 +40,7 @@ telegram   @aws_mini_bot  使用教程
 
 第六步， 点击已读，会进入bot授权概况界面，显示你的授权还有多少天到期
 
-​				<img src="https://ftp.bmp.ovh/imgs/2021/07/24a5edb93b16a6b5.png" style="zoom:33%;" />
+​				<img src="https://ftp.bmp.ovh/imgs/2021/07/d229c5bb2f0eb27f.png" style="zoom:33%;" />
 
 
 
